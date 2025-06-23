@@ -1,11 +1,17 @@
 
----
-
 # 🌿 EcoStore
 
+[🌐 **Live Demo**](https://e-commerce-ac82.vercel.app)
 [![React 18.2.0](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/) [![Vite 4.3.2](https://img.shields.io/badge/Vite-4.3.2-green)](https://vitejs.dev/) [![TailwindCSS 3.3.2](https://img.shields.io/badge/TailwindCSS-3.3.2-blue)](https://tailwindcss.com/) [![License: ISC](https://img.shields.io/badge/License-ISC-yellow)](LICENSE)
 
-A modern, responsive e-commerce platform built with **React**, **Vite** and **TailwindCSS**. EcoStore delivers a clean design, smooth animations and a seamless shopping experience.
+A modern, responsive e-commerce platform built with **React**, **Vite**, and **TailwindCSS**. EcoStore delivers a clean design, smooth animations, and a seamless shopping experience.
+
+---
+
+## 🌟 Live Demo
+
+Check out the live version of the app here:
+👉 [https://e-commerce-ac82.vercel.app](https://e-commerce-ac82.vercel.app)
 
 ---
 
@@ -16,7 +22,7 @@ A modern, responsive e-commerce platform built with **React**, **Vite** and **Ta
 * **Product Catalog**: Browse products across multiple categories
 * **Search & Filtering**: Narrow down by category, price range, ratings
 * **Product Details**: High-quality images, detailed descriptions & reviews
-* **Shopping Cart**: Add, remove and manage items with persistent state
+* **Shopping Cart**: Add, remove, and manage items with persistent state
 * **Responsive Layout**: Optimized for desktop, tablet & mobile
 
 ### 🎨 User Experience Enhancements
@@ -114,5 +120,8 @@ src/
 
 ---
 
-
 > **EcoStore** — Your destination for premium products with exceptional quality and service.
+
+---
+
+
