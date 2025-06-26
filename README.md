@@ -1,10 +1,6 @@
 
 # 🌿 EcoStore
 
-[🌐 **Live Demo**](https://e-commerce-ac82.vercel.app)
-
----
-
 
 [![React 18.2.0](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/) [![Vite 4.3.2](https://img.shields.io/badge/Vite-4.3.2-green)](https://vitejs.dev/) [![TailwindCSS 3.3.2](https://img.shields.io/badge/TailwindCSS-3.3.2-blue)](https://tailwindcss.com/) [![License: ISC](https://img.shields.io/badge/License-ISC-yellow)](LICENSE)
 
